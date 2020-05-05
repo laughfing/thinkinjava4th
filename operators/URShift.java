@@ -1,4 +1,4 @@
-package operators;
+package Operators;
 
 public class URShift {
     public static void main(String[] args) {

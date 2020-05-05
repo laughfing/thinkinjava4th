@@ -1,4 +1,4 @@
-package operators;
+package Operators;
 
 public class Exponents {
     public static void main(String[] args) {
