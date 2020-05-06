@@ -6,7 +6,6 @@ public class Exponents {
         expFloat = 1.39E-43f;
         System.out.println(expFloat);
         double expDouble = 47e47d;
-        double expDouble2 = 47e47;
         System.out.println(expDouble);
 
     }
