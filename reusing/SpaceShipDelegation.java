@@ -26,7 +26,7 @@ public class SpaceShipDelegation {
     public void right(int velocity){
         controls.right(velocity);
     }
-   
+
     public void up(int velocity){
         controls.up(velocity);
     }
